@@ -20,8 +20,6 @@
     - large: 18px
     - small: 14px
 
-- ヘッダーなし
-
 - PHOTH BOOK はロゴ画像
 - セクションの間隔
     - margin-bottom: 60px;
